@@ -18,7 +18,7 @@ struct ContentView: View {
     var body: some View {
         TabView {
             
-            HomeScreen(viewModel: viewModel)
+            HomeScreen(viewModel: viewModel, selectedRecipie: DemoData.demoData)
                 .tabItem{
                     Label("Home", systemImage: "house")
                 }

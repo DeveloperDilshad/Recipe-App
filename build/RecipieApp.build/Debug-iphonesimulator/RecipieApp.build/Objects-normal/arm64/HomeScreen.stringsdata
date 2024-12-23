@@ -6,32 +6,32 @@
         "comment": "",
         "key": "RECIPIE APP",
         "location": {
-          "startingColumn": 22,
-          "startingLine": 17
+          "startingColumn": 26,
+          "startingLine": 20
         }
       },
       {
         "comment": "",
         "key": "Perfect App For your Choise",
         "location": {
-          "startingColumn": 22,
-          "startingLine": 22
+          "startingColumn": 26,
+          "startingLine": 25
         }
       },
       {
         "comment": "",
         "key": "Search Reciepe",
         "location": {
-          "startingColumn": 27,
-          "startingLine": 27
+          "startingColumn": 31,
+          "startingLine": 30
         }
       },
       {
         "comment": "",
         "key": "$%lf",
         "location": {
-          "startingColumn": 34,
-          "startingLine": 67
+          "startingColumn": 38,
+          "startingLine": 70
         }
       }
     ]

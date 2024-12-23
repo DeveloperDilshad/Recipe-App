@@ -52,6 +52,8 @@ struct FavouriteScreen: View {
                                            .foregroundColor(.gray)
                                    }
                                    
+                                   Spacer()
+                                   
                                    Button {
                                                   viewModel.addFavourite(addedItem: recipie)
                                               } label: {
