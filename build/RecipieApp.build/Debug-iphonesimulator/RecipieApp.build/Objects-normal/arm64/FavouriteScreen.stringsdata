@@ -1,0 +1,32 @@
+{
+  "source": "/Users/dilshadp/RecipieApp/RecipieApp/FavouriteScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Favourites",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "No favourites yet!",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "$%lf",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 50
+        }
+      }
+    ]
+  },
+  "version": 1
+}

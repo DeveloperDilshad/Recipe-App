@@ -1,0 +1,40 @@
+{
+  "source": "/Users/dilshadp/RecipieApp/RecipieApp/HomeScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RECIPIE APP",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Perfect App For your Choise",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Reciepe",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "$%lf",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 67
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/dilshadp/RecipieApp/RecipieApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favourites",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 28
+        }
+      }
+    ]
+  },
+  "version": 1
+}
